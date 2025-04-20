@@ -1,0 +1,14 @@
+body {
+  width: 256px;
+  height: 256px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 64px;
+  background-color: darkblue;
+  color: orange;
+}
+
+body:hover {
+  background-color: blue;
+}
